@@ -1,6 +1,12 @@
 # Change Log
 
-## Changes Between 2.12.0 and 2.13.0 (unreleased)
+## Changes Between 2.13.0 and 2.14.0
+
+### Update Bunny Connection Properties
+
+Add the propertie connection_name to Bunny connection
+
+## Changes Between 2.12.0 and 2.13.0
 
 ### Minimum Required Ruby Version
 
